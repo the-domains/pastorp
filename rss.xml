@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[PastorP]]></title>
-        <description><![CDATA[PastorP]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Deep End of Discipleship]]></title>
+        <description><![CDATA[The Deep End of Discipleship]]></description>
+        <link>https://thegrid.ai/pastorp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 22:06:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 Nov 2015 22:12:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pastorp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37286118-19f6-4a03-a21e-88f61e7e863c.jpg">]]></description>
+            <link>https://thegrid.ai/pastorp/9d435004-7233-4247-bee1-1b8938554f9a/index.html</link>
+            <guid isPermaLink="false">9d435004-7233-4247-bee1-1b8938554f9a</guid>
+            <pubDate>Tue, 10 Nov 2015 22:12:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9077972-e6f2-4be9-b0e8-66c138a8482f.jpg">]]></description>
-            <link>undefined7e1a7e50-de2f-48cd-8f61-3a1328f5c431/index.html</link>
+            <link>https://thegrid.ai/pastorp/7e1a7e50-de2f-48cd-8f61-3a1328f5c431/index.html</link>
             <guid isPermaLink="false">7e1a7e50-de2f-48cd-8f61-3a1328f5c431</guid>
             <pubDate>Tue, 10 Nov 2015 22:05:22 GMT</pubDate>
         </item>
