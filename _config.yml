@@ -1,6 +1,6 @@
 name: PastorP
 favicon: null
-layout_spectrum: 0.6012132838368416
+layout_spectrum: 0.49756
 typography_spectrum: 0.6013945376034826
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.625
   lightness: 0.8937184207607061
   saturation: 0.7828230797313154
-  rhythmicContrast: 0.5114013382699341
+  rhythmicContrast: 0.5
 purpose: []
