@@ -1,0 +1,23 @@
+name: PastorP
+favicon: null
+layout_spectrum: 0.6012132838368416
+typography_spectrum: 0.6013945376034826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6036277224775404
+  lightness: 0.8937184207607061
+  saturation: 0.7828230797313154
+  rhythmicContrast: 0.5114013382699341
+purpose: []
